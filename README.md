@@ -4,7 +4,7 @@
 ## Languages 🖥️
 
 <img src="https://img.shields.io/badge/-Python-3C873A?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/-Matlab-535ab?style=flat&logo=Mathworks&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Matlab-1572B6?style=flat&logo=Mathworks&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Kotlin-F1502F?style=flat&logo=kotlin&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 
