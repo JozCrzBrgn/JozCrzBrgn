@@ -4,7 +4,7 @@
 ### Tech Preference
 
 <img src="https://img.shields.io/badge/-Python-3C873A?style=flat&logo=Python&logoColor=white">
-<img src="http://img.shields.io/badge/-Matlab-000000?style=flat&logo=matlab&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=FFFFFF">
 
 
 
