@@ -9,6 +9,14 @@ Welcome to my GitHub! I'm a civil engineering, currently doing his master's degr
   - Always Willing to help (**Altruistic**). ✋ 
 
 
+## If you want to say hi, I'll be happy to meet you more!
+<!-- Your badges -->
+<!-- [![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120) -->
+[![Telegram](https://img.shields.io/badge/-@jozcrzbrgn-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/jozcrzbrgn)
+<!-- [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma) -->
+[![Gmail](https://img.shields.io/badge/-ing.cruzbarragan-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ing.cruzbarragan@gmail.com)
+
+
 ## Languages 🖥️
 
 <img src="https://img.shields.io/badge/-Python-3C873A?style=flat&logo=Python&logoColor=white">
