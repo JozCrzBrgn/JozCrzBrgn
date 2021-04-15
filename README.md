@@ -4,7 +4,9 @@
 ### Languages
 
 <img src="https://img.shields.io/badge/-Python-3C873A?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/static/v1?label=<>&message=<Matlab>&color=e535ab">
 <img src="http://img.shields.io/badge/-Kotlin-F1502F?style=flat&logo=kotlin&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 
 ### Tools 🛠️
 
