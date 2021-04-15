@@ -3,6 +3,12 @@
 <!--
 **JozCrzBrgn/JozCrzBrgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{JozCrzBrgn}/count.svg" alt="JozCrzBrgn :: Visitor's Count" /></p>
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
