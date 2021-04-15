@@ -25,7 +25,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JozCrzBrgn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="JozCrzBrgn :: Profile Stats" /></p>
 
-
+[![Joz's Blog Cards](https://github-cards-external-blogs.JozCrzBrgn.vercel.app/getMediumBlogs?username=JozCrzBrgn&type=vertical)](https://codeingenieria.blogspot.com/2020/05/resistencia-flexion-simple-de-una.html)
 
 
 
