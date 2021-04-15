@@ -1,4 +1,12 @@
-### Hi there 👋 I'm Josue Emmanuel Cruz Barragan
+### Hi there 👋 I'm Josue.
+Welcome to my GitHub! I'm a civil engineering, currently doing his master's degree.
+
+## Things that I execute in free time ⚡ -  
+  - I create videos on youtube about structural analysis. 🎢 🌉
+  - While Coding, Listening Music and developing useful code.⭐️
+  - Just loved to Explore new Tech Stacks.💻
+  - Learning Math and getting knowledge about integrals, differential equations and geometry is My Night Job. 🌌 ☄️ 🔭
+  - Always Willing to help (**Altruistic**). ✋ 
 
 
 ## Languages 🖥️
@@ -15,7 +23,7 @@
 
 ## Github Stats
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">Visitor's count 🙋</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{JozCrzBrgn}/count.svg" alt="JozCrzBrgn :: Visitor's Count" /></p>
 
@@ -25,7 +33,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JozCrzBrgn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="JozCrzBrgn :: Profile Stats" /></p>
 
-[![Joz's Blog Cards](https://github-cards-external-blogs.JozCrzBrgn.vercel.app/getMediumBlogs?username=JozCrzBrgn&type=vertical)](https://codeingenieria.blogspot.com/2020/05/resistencia-flexion-simple-de-una.html)
+
 
 
 
