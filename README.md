@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a civil engineering, currently doing his master's degr
 <!-- [![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120) -->
 <!-- [![Telegram](https://img.shields.io/badge/-@jozcrzbrgn-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/jozcrzbrgn) -->
 <!-- [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma) -->
-[![Facebook](https://img.shields.io/badge/-CodeIngenieria-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/CodeIngenieriaProgramacion)
+[![Facebook](https://img.shields.io/badge/-CodeIngenieria-c13584?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/CodeIngenieriaProgramacion)
 [![Gmail](https://img.shields.io/badge/-ing.cruzbarragan-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ing.cruzbarragan@gmail.com)
 
 
