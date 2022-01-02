@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Josue.
-Welcome to my GitHub! I'm a civil engineering.
+Welcome to my GitHub! I am a civil engineer with a master's degree in hydraulics. 🌊 🌀 🌎 🎓 🏄
 
 ## Things that I execute in free time ⚡ -  
   - I create videos on youtube about structural analysis. 🎢 🌉
-  - While coding, listening music and developing useful code.⭐️
-  - Just loved to explore new Tech Stacks.💻
-  - Learning about artificial intelligence, especially genetic algorithms and neural networks is my night job. 🌌 ☄️ 🔭
+  - While coding, listening music and developing useful code.⭐️ 🎶
+  - Just loved to explore new Tech Stacks.💻 📱
+  - Learning about artificial intelligence, especially genetic algorithms and neural networks is my night job.  🔍 📖
   - Always Willing to help (**Altruistic**). ✋ 
 
 ## If you want to say hi, I'll be happy to meet you more!
@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a civil engineering.
 <!-- [![Telegram](https://img.shields.io/badge/-@jozcrzbrgn-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/jozcrzbrgn) -->
 <!-- [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma) -->
 [![Facebook](https://img.shields.io/badge/-CodeIngenieria-c13584?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/CodeIngenieriaProgramacion)
-[![Telegram](https://img.shields.io/badge/-@CodeIngenieria-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/CodeIngenieria)
+[![Telegram](https://img.shields.io/badge/-@CodeIngenieria-c13584?style=flat&labelColor=blue&logo=Telegram&logoColor=white)](https://t.me/CodeIngenieria)
 
 
 ## Languages 🖥️
