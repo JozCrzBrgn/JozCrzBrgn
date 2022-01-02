@@ -1,21 +1,21 @@
 ### Hi there 👋 I'm Josue.
-Welcome to my GitHub! I'm a civil engineering, currently doing his master's degree.
+Welcome to my GitHub! I'm a civil engineering.
 
 ## Things that I execute in free time ⚡ -  
   - I create videos on youtube about structural analysis. 🎢 🌉
-  - While Coding, Listening Music and developing useful code.⭐️
-  - Just loved to Explore new Tech Stacks.💻
-  - Learning Math and getting knowledge about integrals, differential equations and geometry is My Night Job. 🌌 ☄️ 🔭
+  - While coding, listening music and developing useful code.⭐️
+  - Just loved to explore new Tech Stacks.💻
+  - Learning about artificial intelligence, especially genetic algorithms and neural networks is my night job. 🌌 ☄️ 🔭
   - Always Willing to help (**Altruistic**). ✋ 
-
 
 ## If you want to say hi, I'll be happy to meet you more!
 <!-- Your badges -->
 <!-- [![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120) -->
+<!-- [![Gmail](https://img.shields.io/badge/-ing.cruzbarragan-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ing.cruzbarragan@gmail.com) -->
 <!-- [![Telegram](https://img.shields.io/badge/-@jozcrzbrgn-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/jozcrzbrgn) -->
 <!-- [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma) -->
 [![Facebook](https://img.shields.io/badge/-CodeIngenieria-c13584?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/CodeIngenieriaProgramacion)
-[![Gmail](https://img.shields.io/badge/-ing.cruzbarragan-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ing.cruzbarragan@gmail.com)
+[![Telegram](https://img.shields.io/badge/-@CodeIngenieria-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/CodeIngenieria)
 
 
 ## Languages 🖥️
