@@ -16,6 +16,7 @@ Welcome to my GitHub! I am a civil engineer with a master's degree in hydraulics
 <!-- [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma) -->
 [![Facebook](https://img.shields.io/badge/-CodeIngenieria-c13584?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/CodeIngenieriaProgramacion)
 [![Telegram](https://img.shields.io/badge/-@CodeIngenieria-c13584?style=flat&labelColor=blue&logo=Telegram&logoColor=white)](https://t.me/CodeIngenieria)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-c13584?style=flat&labelColor=blue&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-emmanuel-cruz-barrag%C3%A1n-559959158/)
 
 
 ## Languages 🖥️
