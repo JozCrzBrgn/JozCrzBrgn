@@ -11,8 +11,8 @@ Welcome to my GitHub! I am a civil engineer with a master's degree in hydraulics
   - I create videos on youtube about structural analysis. 🎢 🌉
   - While coding, listening music and developing useful code.⭐️ 🎶
   - Just loved to explore new Tech Stacks.💻 📱
-  - Learning about artificial intelligence, especially genetic algorithms and neural networks is my night job.  🔍 📖
   - Always Willing to help (**Altruistic**). ✋ 
+  - 💻 Currently learning Flutter.
 
 ## Follow me on:
 <!-- Your badges -->
