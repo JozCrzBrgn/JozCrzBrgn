@@ -72,7 +72,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
   <tr>
     <!-- Columna Uno -->
     <td>
-      <a href="https://www.youtube.com/watch?v=ZJCBINksbjg">
+      <a href="https://github.com/JozCrzBrgn/SimulacionDeUnProyectil">
           <img src="/src/proyectil.gif">
       </a>
     </td>
