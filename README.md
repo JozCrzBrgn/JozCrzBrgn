@@ -73,7 +73,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
     <!-- Columna Uno -->
     <td>
       <a href="https://www.youtube.com/watch?v=ZJCBINksbjg">
-          <img src="http://i3.ytimg.com/vi/ZJCBINksbjg/maxresdefault.jpg">
+          <img src="/src/proyectil.gif">
       </a>
     </td>
     <!-- Columna Dos -->
