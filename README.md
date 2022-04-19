@@ -1,6 +1,4 @@
-# Hi there, i'm Josue <img src="/src/wave.gif" width="30px">
-
-Welcome to my GitHub! I am a civil engineer with a master's degree in hydraulics. 🌊 🌀 🌎 🎓 🏄
+# Hi there, welcome to my GitHub i'm Josue <img src="/src/wave.gif" width="30px">
 
 <!-- PONER UN BANNER CON GIFT
 <a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
