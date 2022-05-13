@@ -6,10 +6,9 @@
 
 
 ## Things that I execute in free time ⚡ -  
-  - I create videos on youtube about structural analysis. 🎢 🌉
+  - I create videos on youtube about structural analysis and hydraulics. 🎢 🌉
   - While coding, listening music and developing useful code.⭐️ 🎶
-  - Just loved to explore new Tech Stacks.💻 📱
-  - Always Willing to help (**Altruistic**). ✋ 
+  - I love learning new technologies.💻 📱 
   - 💻 Currently learning Flutter.
 
 ## Follow me on:
@@ -28,6 +27,7 @@
 <!-- Logos utiles
 https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-FD3A5C?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
