@@ -86,6 +86,10 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 		    <img src="/src/temperatura.gif">
 	    </a>
     </td>
+	  <td>
+		  <a href="[URL DESTINO](https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb)">
+			  <img src="/src/temperatura.gif"></a>
+	  </td>
 	  
   </tr>
 </table>
