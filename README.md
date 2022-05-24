@@ -66,32 +66,23 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 ## Some Proyects:
 <!-- Tabla -->
 <table style="width:100%">
-  <!-- Renglon Uno -->
-  <tr>
-    <!-- Columna Uno -->
-    <td>
-	    <a href="https://github.com/JozCrzBrgn/SimulacionDeUnProyectil">
-		    <img src="/src/proyectil.gif">
-	    </a>
-    </td>
-    <!-- Columna Dos -->
-    <td>
-	    <a href="https://youtu.be/RFdJw0wjPAc">
-		    <img src="http://i3.ytimg.com/vi/OnwEA505COE/maxresdefault.jpg">
-	    </a>
-    </td>
-    <!-- Columna Tres -->
-    <td>
-	    <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">
-		    <img src="/src/temperatura.gif">
-	    </a>
-    </td>
+	<tr>
 	  <td>
-		  <a href="[URL DESTINO](https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb)">
-			  <img src="/src/temperatura.gif"></a>
+		  <a href="https://github.com/JozCrzBrgn/SimulacionDeUnProyectil">
+			  <img src="/src/proyectil.gif">
+		  </a>
 	  </td>
-	  
-  </tr>
+	  <td>
+		  <a href="https://youtu.be/RFdJw0wjPAc">
+			  <img src="http://i3.ytimg.com/vi/OnwEA505COE/maxresdefault.jpg">
+		  </a>
+	  </td>
+	  <td> <!-- Columna Tres -->
+		  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">
+			  <img src="/src/temperatura.gif" width="800" height="250">
+		  </a>
+	  </td>
+	</tr>
 </table>
 
 ## Some YouTube Videos:
