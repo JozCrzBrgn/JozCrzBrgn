@@ -79,7 +79,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 	  </td>
 	  <td> <!-- Columna Tres -->
 		  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">
-			  <img src="/src/temperatura.gif" width="800" height="250">
+			  <img src="/src/temperatura.gif" width="800" height="200">
 		  </a>
 	  </td>
 	</tr>
