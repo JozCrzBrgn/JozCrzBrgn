@@ -80,13 +80,13 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
   	    <img src="http://i3.ytimg.com/vi/OnwEA505COE/maxresdefault.jpg">
       </a>
     </td>
-    <!-- Columna Tres
+    <!-- Columna Tres -->
     <td>
-      <a href="https://youtu.be/hGIzLGgf3Bo">
-  		  <img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
+      <a href="[https://youtu.be/hGIzLGgf3Bo](https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb)">
+  		  <img src="/src/temperatura.gif">
       </a>
     </td>
-    -->
+	  
   </tr>
 </table>
 
