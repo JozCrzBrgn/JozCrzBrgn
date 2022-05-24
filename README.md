@@ -70,21 +70,21 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
   <tr>
     <!-- Columna Uno -->
     <td>
-      <a href="https://github.com/JozCrzBrgn/SimulacionDeUnProyectil">
-          <img src="/src/proyectil.gif">
-      </a>
+	    <a href="https://github.com/JozCrzBrgn/SimulacionDeUnProyectil">
+		    <img src="/src/proyectil.gif">
+	    </a>
     </td>
     <!-- Columna Dos -->
     <td>
 	    <a href="https://youtu.be/RFdJw0wjPAc">
-  	    <img src="http://i3.ytimg.com/vi/OnwEA505COE/maxresdefault.jpg">
-      </a>
+		    <img src="http://i3.ytimg.com/vi/OnwEA505COE/maxresdefault.jpg">
+	    </a>
     </td>
     <!-- Columna Tres -->
     <td>
-      <a href="[https://youtu.be/hGIzLGgf3Bo](https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb)">
-  		  <img src="/src/temperatura.gif">
-      </a>
+	    <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">
+		    <img src="/src/temperatura.gif">
+	    </a>
     </td>
 	  
   </tr>
