@@ -76,7 +76,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 	  <td>
 		  <a href="https://youtu.be/RFdJw0wjPAc">
 			  <img src="http://i3.ytimg.com/vi/OnwEA505COE/maxresdefault.jpg">
-			  <a href="https://youtu.be/RFdJw0wjPAc">Armadura en 2D</a>
+			  <a href="https://youtu.be/RFdJw0wjPAc">Videotutorial de armadura en 2D</a>
 		  </a>
 	  </td>
 	  <td> <!-- Columna Tres -->
