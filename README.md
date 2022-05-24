@@ -70,16 +70,19 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 	  <td>
 		  <a href="https://github.com/JozCrzBrgn/SimulacionDeUnProyectil">
 			  <img src="/src/proyectil.gif">
+			  <a href="https://github.com/JozCrzBrgn/SimulacionDeUnProyectil">Simulación de un proyectil</a>
 		  </a>
 	  </td>
 	  <td>
 		  <a href="https://youtu.be/RFdJw0wjPAc">
 			  <img src="http://i3.ytimg.com/vi/OnwEA505COE/maxresdefault.jpg">
+			  <a href="https://youtu.be/RFdJw0wjPAc">Armadura en 2D</a>
 		  </a>
 	  </td>
 	  <td> <!-- Columna Tres -->
 		  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">
 			  <img src="/src/temperatura.gif">
+			  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">Temperatura de una placa caliente con condiciones de frontera fijas.</a>
 		  </a>
 	  </td>
 	</tr>
