@@ -80,7 +80,27 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 	  <td> <!-- Columna Tres -->
 		  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">
 			  <img src="/src/temperatura.gif">
-			  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">Temperatura de una placa caliente con condiciones de frontera fijas.</a>
+			  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">Temperatura de una placa caliente con condiciones de frontera fijas</a>
+		  </a>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		  <a href="https://github.com/JozCrzBrgn/DeterminacionDeLaResistenciaFlexionDeUnaSeccionRectangular/blob/master/Momento%20a%20Flexi%C3%B3n%20de%20Viga%20Simple.ipynb">
+			  <img src="/src/viga.png">
+			  <a href="https://github.com/JozCrzBrgn/DeterminacionDeLaResistenciaFlexionDeUnaSeccionRectangular/blob/master/Momento%20a%20Flexi%C3%B3n%20de%20Viga%20Simple.ipynb">Viga rectangular simple</a>
+		  </a>
+	  </td>
+	  <td>
+		  <a href="https://github.com/JozCrzBrgn/DiferenciacionIntegracionNumerica/blob/master/Diferenciacion/M%C3%A9todo%20de%20Euler/M%C3%A9todo%20de%20Euler.ipynb">
+			  <img src="/src/tanque.png">
+			  <a href="https://github.com/JozCrzBrgn/DiferenciacionIntegracionNumerica/blob/master/Diferenciacion/M%C3%A9todo%20de%20Euler/M%C3%A9todo%20de%20Euler.ipynb">Vaciado de taque con forma de cono circular recto</a>
+		  </a>
+	  </td>
+	  <td> <!-- Columna Tres -->
+		  <a href="https://github.com/JozCrzBrgn/ColebrookWhite/blob/master/Colebrook-White.ipynb">
+			  <img src="/src/fricc.png">
+			  <a href="https://github.com/JozCrzBrgn/ColebrookWhite/blob/master/Colebrook-White.ipynb">Solución de la ecuación de Colebrook-White, usando Newton-Raphson</a>
 		  </a>
 	  </td>
 	</tr>
