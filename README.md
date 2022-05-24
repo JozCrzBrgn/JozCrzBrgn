@@ -1,9 +1,7 @@
+<!-- PONER UN BANNER CON GIFT-->
+<a href="https://www.youtube.com/channel/UCBt557uIeCdXjQ7R_A4NGkw"><img src="/src/BANNER_YT.png"></a>
+
 # Hi there, welcome to my GitHub i'm Josue <img src="/src/wave.gif" width="30px">
-
-<!-- PONER UN BANNER CON GIFT
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
--->
-
 
 ## Things that I execute in free time ⚡ -  
   - I create videos on youtube about structural analysis and hydraulics. 🎢 🌉
