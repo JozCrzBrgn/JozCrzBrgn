@@ -111,13 +111,12 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
   	    <img src="http://i3.ytimg.com/vi/OnwEA505COE/maxresdefault.jpg">
       </a>
     </td>
-    <!-- Columna Tres
+    <!-- Columna Tres -->
     <td>
-      <a href="https://youtu.be/hGIzLGgf3Bo">
-  		  <img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
+      <a href="https://youtu.be/OtsXkg73J9c">
+  		  <img src="http://i3.ytimg.com/vi/OtsXkg73J9c/maxresdefault.jpg">
       </a>
     </td>
-    -->
   </tr>
 </table>
 
