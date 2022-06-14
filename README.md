@@ -64,6 +64,32 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 ## Some Proyects:
 <!-- Tabla -->
 <table style="width:100%">
+	<!--------------->
+	<!-- Seccion 1 -->
+	<!--------------->
+	<tr>
+	  <td>
+		  <a href="https://github.com/JozCrzBrgn/Proyects/blob/main/App_ComprobacionDisenioTuberias.md">
+			  <img src="/src/AppDisenioTuberias.gif">
+			  <a href="https://github.com/JozCrzBrgn/Proyects/blob/main/App_ComprobacionDisenioTuberias.md">Comprobación del diseño de una tubería</a>
+		  </a>
+	  </td>
+	  <td>
+		  <a href="https://youtu.be/RFdJw0wjPAc">
+			  <img src="http://i3.ytimg.com/vi/OnwEA505COE/maxresdefault.jpg">
+			  <a href="https://youtu.be/RFdJw0wjPAc">Videotutorial de armadura en 2D</a>
+		  </a>
+	  </td>
+	  <td> <!-- Columna Tres -->
+		  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">
+			  <img src="/src/temperatura.gif">
+			  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">Temperatura de una placa caliente con condiciones de frontera fijas</a>
+		  </a>
+	  </td>
+	</tr>
+	<!--------------->
+	<!-- Seccion 2 -->
+	<!--------------->
 	<tr>
 	  <td>
 		  <a href="https://github.com/JozCrzBrgn/SimulacionDeUnProyectil">
@@ -82,8 +108,11 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 			  <img src="/src/temperatura.gif">
 			  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">Temperatura de una placa caliente con condiciones de frontera fijas</a>
 		  </a>
-	  </td>
+	  </td>	
 	</tr>
+	<!--------------->
+	<!-- Seccion 3 a corregir -->
+	<!--------------->
 	<tr>
 	  <td>
 		  <a href="https://github.com/JozCrzBrgn/DeterminacionDeLaResistenciaFlexionDeUnaSeccionRectangular/blob/master/Momento%20a%20Flexi%C3%B3n%20de%20Viga%20Simple.ipynb">
