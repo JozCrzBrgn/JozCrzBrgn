@@ -71,19 +71,19 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 	  <td>
 		  <a href="https://github.com/JozCrzBrgn/Proyects/blob/main/App_ComprobacionDisenioTuberias.md">
 			  <img src="/src/AppDisenioTuberias.gif">
-			  <a href="https://github.com/JozCrzBrgn/Proyects/blob/main/App_ComprobacionDisenioTuberias.md">Comprobación del diseño de una tubería</a>
+			  <a href="https://github.com/JozCrzBrgn/Proyects/blob/main/App_ComprobacionDisenioTuberias.md">Click for more...</a>
 		  </a>
 	  </td>
 	  <td>
 		  <a href="https://youtu.be/RFdJw0wjPAc">
 			  <img src="http://i3.ytimg.com/vi/OnwEA505COE/maxresdefault.jpg">
-			  <a href="https://youtu.be/RFdJw0wjPAc">Videotutorial de armadura en 2D</a>
+			  <a href="https://youtu.be/RFdJw0wjPAc">Click for more...</a>
 		  </a>
 	  </td>
 	  <td> <!-- Columna Tres -->
 		  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">
 			  <img src="/src/temperatura.gif">
-			  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">Temperatura de una placa caliente con condiciones de frontera fijas</a>
+			  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">Click for more...</a>
 		  </a>
 	  </td>
 	</tr>
@@ -94,19 +94,19 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 	  <td>
 		  <a href="https://github.com/JozCrzBrgn/SimulacionDeUnProyectil">
 			  <img src="/src/proyectil.gif">
-			  <a href="https://github.com/JozCrzBrgn/SimulacionDeUnProyectil">Simulación de un proyectil</a>
+			  <a href="https://github.com/JozCrzBrgn/SimulacionDeUnProyectil">Click for more...</a>
 		  </a>
 	  </td>
 	  <td>
 		  <a href="https://youtu.be/RFdJw0wjPAc">
 			  <img src="http://i3.ytimg.com/vi/OnwEA505COE/maxresdefault.jpg">
-			  <a href="https://youtu.be/RFdJw0wjPAc">Videotutorial de armadura en 2D</a>
+			  <a href="https://youtu.be/RFdJw0wjPAc">Click for more...</a>
 		  </a>
 	  </td>
 	  <td> <!-- Columna Tres -->
 		  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">
 			  <img src="/src/temperatura.gif">
-			  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">Temperatura de una placa caliente con condiciones de frontera fijas</a>
+			  <a href="https://github.com/JozCrzBrgn/EcuacionesDiferencialesParciales/blob/master/EDP%20Elipticas/EDP%20El%C3%ADptica.ipynb">Click for more...</a>
 		  </a>
 	  </td>	
 	</tr>
@@ -117,19 +117,19 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 	  <td>
 		  <a href="https://github.com/JozCrzBrgn/DeterminacionDeLaResistenciaFlexionDeUnaSeccionRectangular/blob/master/Momento%20a%20Flexi%C3%B3n%20de%20Viga%20Simple.ipynb">
 			  <img src="/src/viga.png">
-			  <a href="https://github.com/JozCrzBrgn/DeterminacionDeLaResistenciaFlexionDeUnaSeccionRectangular/blob/master/Momento%20a%20Flexi%C3%B3n%20de%20Viga%20Simple.ipynb">Viga rectangular simple</a>
+			  <a href="https://github.com/JozCrzBrgn/DeterminacionDeLaResistenciaFlexionDeUnaSeccionRectangular/blob/master/Momento%20a%20Flexi%C3%B3n%20de%20Viga%20Simple.ipynb">Click for more...</a>
 		  </a>
 	  </td>
 	  <td>
 		  <a href="https://github.com/JozCrzBrgn/DiferenciacionIntegracionNumerica/blob/master/Diferenciacion/M%C3%A9todo%20de%20Euler/M%C3%A9todo%20de%20Euler.ipynb">
 			  <img src="/src/tanque.png">
-			  <a href="https://github.com/JozCrzBrgn/DiferenciacionIntegracionNumerica/blob/master/Diferenciacion/M%C3%A9todo%20de%20Euler/M%C3%A9todo%20de%20Euler.ipynb">Vaciado de taque con forma de cono circular recto</a>
+			  <a href="https://github.com/JozCrzBrgn/DiferenciacionIntegracionNumerica/blob/master/Diferenciacion/M%C3%A9todo%20de%20Euler/M%C3%A9todo%20de%20Euler.ipynb">Click for more...</a>
 		  </a>
 	  </td>
 	  <td> <!-- Columna Tres -->
 		  <a href="https://github.com/JozCrzBrgn/ColebrookWhite/blob/master/Colebrook-White.ipynb">
 			  <img src="/src/fricc.png">
-			  <a href="https://github.com/JozCrzBrgn/ColebrookWhite/blob/master/Colebrook-White.ipynb">Solución de la ecuación de Colebrook-White, usando Newton-Raphson</a>
+			  <a href="https://github.com/JozCrzBrgn/ColebrookWhite/blob/master/Colebrook-White.ipynb">Click for more...</a>
 		  </a>
 	  </td>
 	</tr>
