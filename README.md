@@ -7,7 +7,7 @@
   - I create videos on youtube about structural analysis and hydraulics. 🎢 🌉
   - While coding, listening music and developing useful code.⭐️ 🎶
   - I love learning new technologies.💻 📱 
-  - 💻 Currently learning Flutter.
+  - Currently learning Data Science 💻📊⚡📈.
 
 ## Follow me on:
 <!-- Your badges -->
