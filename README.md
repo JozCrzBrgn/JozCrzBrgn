@@ -15,8 +15,6 @@
 <!-- [![Gmail](https://img.shields.io/badge/-ing.cruzbarragan-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ing.cruzbarragan@gmail.com) -->
 <!-- [![Telegram](https://img.shields.io/badge/-@jozcrzbrgn-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/jozcrzbrgn) -->
 <!-- [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma) -->
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/CodeIngenieriaProgramacion)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josuecruzbarragan/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCBt557uIeCdXjQ7R_A4NGkw)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBt557uIeCdXjQ7R_A4NGkw?style=social)](https://youtube.com/channel/UCBt557uIeCdXjQ7R_A4NGkw?sub_confirmation=1)
 
