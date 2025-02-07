@@ -20,8 +20,8 @@
 
 ## My Portfolio:
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]()
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://huggingface.co/JozCrzBrgn)
+<!-- [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]() -->
+<!-- [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://huggingface.co/JozCrzBrgn) -->
 
 ## Skills 🖥️
 <!-- Logos utiles
