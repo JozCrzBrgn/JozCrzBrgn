@@ -57,6 +57,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-FD3A5C?style=for-the-badge&logo=Mathworks&logoColor=white)
+![VBA](https://img.shields.io/badge/vba-1E4B8E?style=for-the-badge)
 
 ### 🖥️ Frameworks & Libraries ⚙️
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
@@ -64,8 +65,8 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Reflex](https://img.shields.io/badge/Reflex-00B8D9?logo=python&logoColor=white)
-![Flet](https://img.shields.io/badge/Flet-0082F7?logo=flet&logoColor=white)
+![Reflex](https://img.shields.io/badge/reflex-d29bfd?style=for-the-badge)
+![Flet](https://img.shields.io/badge/flet-0082F7?style=for-the-badge)
 
 ### 🖥️ ML/DL
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -82,7 +83,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099B9?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099B9?style=for-the-badge)
 
 ### ⚙️ DevOps & Automation
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -106,7 +107,7 @@
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-00C2FF?logo=railway&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-00C2FF?style=for-the-badge&logo=railway&logoColor=white)
 
 ### 💻 IDEs/Editors
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
