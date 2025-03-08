@@ -1,6 +1,3 @@
-<!-- PONER UN BANNER CON GIFT-->
-<a href="https://www.youtube.com/channel/UCBt557uIeCdXjQ7R_A4NGkw"><img src="/src/BANNER_YT.png"></a>
-
 # Hi there, welcome to my GitHub i'm Josue <img src="/src/wave.gif" width="30px">
 
 ## 🚀 Beyond Work: My Passion for Tech & Learning 
@@ -11,7 +8,6 @@
   - 📊 Currently expanding my expertise in Data Science
 
 ## Follow me on:
-<!-- Your badges -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ing.cruzbarragan)
 
@@ -32,21 +28,21 @@
     <td>
       <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115450949x759070189120540400" target="_blank" rel="noopener noreferrer">
           <img src="/src/PBI_1.webp">
-		  (Ver Dashboard)
+		  🔗 View Dashboard
       </a>
     </td>
     <!-- Columna Dos -->
     <td>
 	    <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115452864x456897774852310200" target="_blank" rel="noopener noreferrer">
   	    <img src="/src/PBI_2.webp">
-		(Ver Dashboard)
+		🔗 View Dashboard
       </a>
     </td>
     <!-- Columna Tres -->
     <td>
       <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115448439x258407787298857500" target="_blank" rel="noopener noreferrer">
   		  <img src="/src/PBI_3.webp">
-		  (Ver Dashboard)
+		  🔗 View Dashboard
       </a>
     </td>
   </tr>
