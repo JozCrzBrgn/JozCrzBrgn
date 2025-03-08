@@ -26,21 +26,21 @@
   <tr>
     <!-- Columna Uno -->
     <td>
-      <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115450949x759070189120540400">
+      <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115450949x759070189120540400" target="_blank" rel="noopener noreferrer">
           <img src="/src/PBI_1.webp">
 		  (Ver Dashboard)
       </a>
     </td>
     <!-- Columna Dos -->
     <td>
-	    <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115452864x456897774852310200">
+	    <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115452864x456897774852310200" target="_blank" rel="noopener noreferrer">
   	    <img src="/src/PBI_2.webp">
 		(Ver Dashboard)
       </a>
     </td>
     <!-- Columna Tres -->
     <td>
-      <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115448439x258407787298857500">
+      <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115448439x258407787298857500" target="_blank" rel="noopener noreferrer">
   		  <img src="/src/PBI_3.webp">
 		  (Ver Dashboard)
       </a>
