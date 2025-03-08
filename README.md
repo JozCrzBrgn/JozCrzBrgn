@@ -17,37 +17,6 @@
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/codeingenieria)
 
-
-## Power BI Projects:
-
-<!-- Tabla -->
-<table style="width:100%">
-  <!-- Renglon Uno -->
-  <tr>
-    <!-- Columna Uno -->
-    <td>
-      <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115450949x759070189120540400" target="_blank" rel="noopener noreferrer">
-          <img src="/src/PBI_1.webp">
-		  🔗 View Dashboard
-      </a>
-    </td>
-    <!-- Columna Dos -->
-    <td>
-	    <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115452864x456897774852310200" target="_blank" rel="noopener noreferrer">
-  	    <img src="/src/PBI_2.webp">
-		🔗 View Dashboard
-      </a>
-    </td>
-    <!-- Columna Tres -->
-    <td>
-      <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115448439x258407787298857500" target="_blank" rel="noopener noreferrer">
-  		  <img src="/src/PBI_3.webp">
-		  🔗 View Dashboard
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## Skills 🖥️
 
 ### 📋 Languages
@@ -116,6 +85,35 @@
 
 ### 🖥️ Quantum Programming Frameworks and Libraries
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+
+## Power BI Projects:
+<!-- Tabla -->
+<table style="width:100%">
+  <!-- Renglon Uno -->
+  <tr>
+    <!-- Columna Uno -->
+    <td>
+      <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115450949x759070189120540400" target="_blank" rel="noopener noreferrer">
+          <img src="/src/PBI_1.webp">
+		  🔗 View Dashboard
+      </a>
+    </td>
+    <!-- Columna Dos -->
+    <td>
+	    <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115452864x456897774852310200" target="_blank" rel="noopener noreferrer">
+  	    <img src="/src/PBI_2.webp">
+		🔗 View Dashboard
+      </a>
+    </td>
+    <!-- Columna Tres -->
+    <td>
+      <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115448439x258407787298857500" target="_blank" rel="noopener noreferrer">
+  		  <img src="/src/PBI_3.webp">
+		  🔗 View Dashboard
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Some Proyects:
 <!-- Tabla -->
