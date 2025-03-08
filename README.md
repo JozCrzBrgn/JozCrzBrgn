@@ -18,7 +18,33 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCBt557uIeCdXjQ7R_A4NGkw)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBt557uIeCdXjQ7R_A4NGkw?style=social)](https://youtube.com/channel/UCBt557uIeCdXjQ7R_A4NGkw?sub_confirmation=1)
 
-## My Portfolio:
+## Power BI Projects:
+
+<!-- Tabla -->
+<table style="width:100%">
+  <!-- Renglon Uno -->
+  <tr>
+    <!-- Columna Uno -->
+    <td>
+      <a href="https://www.youtube.com/watch?v=ZJCBINksbjg">
+          <img src="/src/PBI_1.webp">
+      </a>
+    </td>
+    <!-- Columna Dos -->
+    <td>
+	    <a href="https://youtu.be/RFdJw0wjPAc">
+  	    <img src="/src/PBI_2.webp">
+      </a>
+    </td>
+    <!-- Columna Tres -->
+    <td>
+      <a href="https://youtu.be/OtsXkg73J9c">
+  		  <img src="/src/PBI_3.webp">
+      </a>
+    </td>
+  </tr>
+</table>
+
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan)
 <!-- [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]() -->
 <!-- [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://huggingface.co/JozCrzBrgn) -->
