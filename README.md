@@ -28,18 +28,21 @@
     <td>
       <a href="https://www.youtube.com/watch?v=ZJCBINksbjg">
           <img src="/src/PBI_1.webp">
+		  (Ver Dashboard)
       </a>
     </td>
     <!-- Columna Dos -->
     <td>
 	    <a href="https://youtu.be/RFdJw0wjPAc">
   	    <img src="/src/PBI_2.webp">
+		(Ver Dashboard)
       </a>
     </td>
     <!-- Columna Tres -->
     <td>
       <a href="https://youtu.be/OtsXkg73J9c">
   		  <img src="/src/PBI_3.webp">
+		  (Ver Dashboard)
       </a>
     </td>
   </tr>
