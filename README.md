@@ -103,6 +103,35 @@ I’m open to collaborating on:
 
 ⭐ *If you like my work, consider following me or starring a repository!*
 
+## AI Projects:
+<!-- Tabla -->
+<table style="width:100%">
+  <!-- Renglon Uno -->
+  <tr>
+    <!-- Columna Uno -->
+    <td>
+      <a href="[https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115450949x759070189120540400" target="_blank" rel="noopener noreferrer](https://github.com/JozCrzBrgn/AI-Inbox-Copilot?tab=readme-ov-file#ai-inbox-copilot)">
+          <img src="/src/AI-Inbox-Copilot.webp">
+		  <a href="https://github.com/JozCrzBrgn/AI-Inbox-Copilot">Click for more...</a>
+      </a>
+    </td>
+    <!-- Columna Dos 
+    <td>
+	    <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115452864x456897774852310200" target="_blank" rel="noopener noreferrer">
+  	    <img src="/src/PBI_2.webp">
+		🔗 View Dashboard
+      </a>
+    </td> -->
+    <!-- Columna Tres 
+    <td>
+      <a href="https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115448439x258407787298857500" target="_blank" rel="noopener noreferrer">
+  		  <img src="/src/PBI_3.webp">
+		  🔗 View Dashboard
+      </a>
+    </td>-->
+  </tr>
+</table>
+
 ## Power BI Projects:
 <!-- Tabla -->
 <table style="width:100%">
