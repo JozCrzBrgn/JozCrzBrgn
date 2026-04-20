@@ -110,8 +110,8 @@ I’m open to collaborating on:
   <tr>
     <!-- Columna Uno -->
     <td>
-      <a href="[https://www.novypro.com/profile_projects/josueemmanuelcruzbarragan?Popup=memberProject&Data=1682115450949x759070189120540400" target="_blank" rel="noopener noreferrer](https://github.com/JozCrzBrgn/AI-Inbox-Copilot?tab=readme-ov-file#ai-inbox-copilot)">
-          <img src="/src/AI-Inbox-Copilot.webp">
+      <a href="https://github.com/JozCrzBrgn/AI-Inbox-Copilot#ai-inbox-copilot">
+          <img src="/src/AI-Inbox-Copilot.gif">
 		  <a href="https://github.com/JozCrzBrgn/AI-Inbox-Copilot">Click for more...</a>
       </a>
     </td>
